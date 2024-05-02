@@ -27,9 +27,9 @@ All points are futher explained via comments in the notebook.
    
    -notes:
    
-   -have to change the file pathway
+     -have to change the file pathway
 
-3) Data Cleaning and Engineering
+2) Data Cleaning and Engineering
    
    -new columns for all inputs are created with numerical values
    
@@ -37,19 +37,19 @@ All points are futher explained via comments in the notebook.
    
    -notes:
    
-   -specific columns within the factor of official misconduct were transformed to numerical values; these variables were not used in the model but were transformed for future use
+     -specific columns within the factor of official misconduct were transformed to numerical values; these variables were not used in the model but were transformed for future use
    
-   -creation of the sentence length label required bucketization of the original column for sentence length
+     -creation of the sentence length label required bucketization of the original column for sentence length
    
-4) Variable Visualizations (Time Spent In Prison)
+3) Variable Visualizations (Time Spent In Prison)
 
    -boxplots showing the distribution of time spent in prison across levels of the input variables
 
-6) Variable Visualizations (Sentence Category Number)
+4) Variable Visualizations (Sentence Category Number)
 
    -boxplots showing the distribution of sentence category number across levels of the input variables
 
-8) Feed Forward Neural Network
+5) Feed Forward Neural Network
 
    -the model should run as is
 
