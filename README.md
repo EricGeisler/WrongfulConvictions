@@ -27,7 +27,7 @@ All points are futher explained via comments in the notebook.
    
    -notes:
    
-     -have to change the file pathway
+         -have to change the file pathway
 
 2) Data Cleaning and Engineering
    
@@ -37,9 +37,9 @@ All points are futher explained via comments in the notebook.
    
    -notes:
    
-     -specific columns within the factor of official misconduct were transformed to numerical values; these variables were not used in the model but were transformed for future use
+         -specific columns within the factor of official misconduct were transformed to numerical values; these variables were not used in the model but were transformed for future use
    
-     -creation of the sentence length label required bucketization of the original column for sentence length
+         -creation of the sentence length label required bucketization of the original column for sentence length
    
 3) Variable Visualizations (Time Spent In Prison)
 
